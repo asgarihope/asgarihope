@@ -7,6 +7,7 @@ With nearly a decade of experience as both a **Backend** and **Frontend Develope
 
 ## 🛠️ My Skills
 <div align="center">
+  
 | 💻 Languages       | ⚙️ Frameworks           | 🗄️ Databases      | 🧰 Tools & Other     |
 |-------------------|-------------------------|-------------------|----------------------|
 | PHP               | Laravel                 | MySQL             | Docker, PHPUnit      |
@@ -14,14 +15,17 @@ With nearly a decade of experience as both a **Backend** and **Frontend Develope
 | TypeScript        | Angular (+2), Vue.js    |                   | Swagger              |
 | HTML/CSS/SCSS/SASS| Angular.js, jQuery      |                   | Git (CI/CD), TFS     |
 |                   | Bootstrap, WordPress    |                   | Postman              |
+
 </div>
 
 <div align="center">
+  
 | 🧠 Methodologies         | 🔒 Security & Best Practices      | 🤝 Soft Skills                |
 |-------------------------|----------------------------------|------------------------------|
 | Agile/Scrum             | OWASP, SOLID, Clean Code, TDD/DDD| Teamwork, Problem-solving    |
 | Design Patterns         | API Security, UI/UX Principles   | Creativity, Self-Learning    |
-| CI/CD Pipelines         |                                  | Negotiation, Knowledge Sharing|👈🏻😖(push)
+| CI/CD Pipelines         |                                  | Negotiation, Knowledge Sharing|
+
 </div>
 
 
