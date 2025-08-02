@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Omid Asgari
 
-## Full-Stack Developer | Laravel 🫶🏻 Angular 
-
----
-
-### 🚀 About Me
+## 🚀 Full-Stack Developer | Laravel 🫶🏻 Angular 
 
 With nearly a decade of experience as both a **Backend** and **Frontend Developer**, I architect and deliver robust, scalable B2B/B2C platforms—from fintech solutions serving millions to dynamic travel tech SaaS and health platforms. I thrive at the intersection of UI innovation and backend logic, blending PHP/Laravel expertise with Angular, Vue.js, and modern JavaScript. My passion? Transforming business challenges into seamless, high-performance web applications—always with an eye on innovation, teamwork, and user experience.
 
@@ -12,7 +8,6 @@ With nearly a decade of experience as both a **Backend** and **Frontend Develope
 
 ## 🛠️ My Skills
 
-<details>
   <summary><b>Click to expand my skill set!</b></summary>
 
 <div align="center">
@@ -36,7 +31,6 @@ With nearly a decade of experience as both a **Backend** and **Frontend Develope
 | CI/CD Pipelines         |                                  | Negotiation, Knowledge Sharing|👈🏻😖(push)
 
 </div>
-</details>
 
 ---
 
@@ -47,8 +41,6 @@ With nearly a decade of experience as both a **Backend** and **Frontend Develope
 - **Health & Fitness Platform:** Automated diet/workout plans, CRM, high-performance authentication, and SEO-optimized WordPress.
 
 
-
----
 
 ## 📬 Contact Me
 
