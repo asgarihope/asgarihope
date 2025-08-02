@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Omid Asgari
 
-<!--
-**asgarihope/asgarihope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack Developer | Laravel 🫶🏻 Angular 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+With nearly a decade of experience as both a **Backend** and **Frontend Developer**, I architect and deliver robust, scalable B2B/B2C platforms—from fintech solutions serving millions to dynamic travel tech SaaS and health platforms. I thrive at the intersection of UI innovation and backend logic, blending PHP/Laravel expertise with Angular, Vue.js, and modern JavaScript. My passion? Transforming business challenges into seamless, high-performance web applications—always with an eye on innovation, teamwork, and user experience.
+
+---
+
+## 🛠️ My Skills
+
+<details>
+  <summary><b>Click to expand my skill set!</b></summary>
+
+<div align="center">
+
+| 💻 Languages       | ⚙️ Frameworks           | 🗄️ Databases      | 🧰 Tools & Other     |
+|-------------------|-------------------------|-------------------|----------------------|
+| PHP               | Laravel                 | MySQL             | Docker, PHPUnit      |
+| JavaScript        | Symfony                 | Redis             | RESTful & SOAP       |
+| TypeScript        | Angular (+2), Vue.js    |                   | Swagger              |
+| HTML/CSS/SCSS/SASS| Angular.js, jQuery      |                   | Git (CI/CD), TFS     |
+|                   | Bootstrap, WordPress    |                   | Postman              |
+
+</div>
+
+<div align="center">
+
+| 🧠 Methodologies         | 🔒 Security & Best Practices      | 🤝 Soft Skills                |
+|-------------------------|----------------------------------|------------------------------|
+| Agile/Scrum             | OWASP, SOLID, Clean Code, TDD/DDD| Teamwork, Problem-solving    |
+| Design Patterns         | API Security, UI/UX Principles   | Creativity, Self-Learning    |
+| CI/CD Pipelines         |                                  | Negotiation, Knowledge Sharing|👈🏻😖(push)
+
+</div>
+</details>
+
+---
+
+## ✨ Portfolio Highlights
+
+- **Fintech Platform:** Providing banking services to Iranian people and third-party clients for over 4 million users.
+- **Travel Tech B2B SaaS:** Booking, multi-currency & multilingual support, 30+ white-label projects.
+- **Health & Fitness Platform:** Automated diet/workout plans, CRM, high-performance authentication, and SEO-optimized WordPress.
+
+
+
+---
+
+## 📬 Contact Me
+
+- **Gmail:** [asgarihope@gmail.com](mailto:asgarihope@gmail.com)
+- **Telegram:** [@asgarihope](https://t.me/thisisomid)
+
+---
+
+> *Always open to new opportunities, collaborations, and learning experiences. Let’s build something amazing together!*
+
