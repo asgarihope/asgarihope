@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omid Asgari
 
-## 🚀 Full-Stack Developer    |   Laravel 🫶🏻 Angular 
+## 🚀 Full-Stack Developer    |   `Laravel` 🫶🏻 `Angular` 
 
 With nearly a decade of experience as both a **Backend** and **Frontend Developer**, 
 I architect and deliver robust, scalable B2B/B2C platforms—from fintech solutions serving millions to dynamic travel tech SaaS and health platforms. 
