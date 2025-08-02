@@ -43,4 +43,5 @@ Successfully developed an `AI-powered` chatbot and `Telegram-bot` in collaborati
 ## 📬 Contact Me
 
 - **Gmail:** [asgarihope@gmail.com](mailto:asgarihope@gmail.com)
+- **Linkedin:** [https://www.linkedin.com/in/omidimo/](https://www.linkedin.com/in/omidimo/)
 - **Telegram:** [@asgarihope](https://t.me/thisisomid)
