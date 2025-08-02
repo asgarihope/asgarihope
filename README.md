@@ -3,11 +3,10 @@
 ## 🚀 Full-Stack Developer    |   `Laravel` 🫶🏻 `Angular` 
 
 With nearly a decade of experience as both a **Backend** and **Frontend Developer**, 
-I architect and deliver robust, scalable B2B/B2C platforms—from fintech solutions serving millions to dynamic travel tech SaaS and health platforms. 
-I thrive at the intersection of UI innovation and backend logic, blending PHP/Laravel expertise with Angular, Vue.js, and modern JavaScript. 
+I architect and deliver robust, scalable `B2B/B2C` platforms—from fintech solutions serving millions to dynamic travel tech SaaS and health platforms. 
+I thrive at the intersection of UI innovation and backend logic, blending `PHP`/`Laravel` expertise with `Angular`, `Vue.js`, and modern `JavaScript`. 
 
-My passion? Transforming business challenges into seamless, high-performance web applications—always with an eye on innovation, teamwork, and user experience.
-
+Successfully developed an `AI-powered` chatbot and `Telegram-bot` in collaboration with the support team to enhance customer experience and automate workflows. Strong collaborator with cross-functional teams and a passion for innovation, always exploring new ways to optimize backend and frontend processes. Eager to bring technical expertise and adaptability to new international challenges.
 
 ## 🛠️ My Skills
 <div align="left">
