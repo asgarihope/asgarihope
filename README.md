@@ -6,7 +6,7 @@ With nearly a decade of experience as both a **Backend** and **Frontend Develope
 
 
 ## 🛠️ My Skills
-<div align="center">
+<div align="left">
   
 | 💻 Languages       | ⚙️ Frameworks           | 🗄️ Databases      | 🧰 Tools & Other     |
 |-------------------|-------------------------|-------------------|----------------------|
@@ -18,7 +18,7 @@ With nearly a decade of experience as both a **Backend** and **Frontend Develope
 
 </div>
 
-<div align="center">
+<div align="left">
   
 | 🧠 Methodologies         | 🔒 Security & Best Practices      | 🤝 Soft Skills                |
 |-------------------------|----------------------------------|------------------------------|
